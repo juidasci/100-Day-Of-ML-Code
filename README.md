@@ -15,4 +15,4 @@
 [Data PreProcessing](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day1.ipynb)
 
 ## 簡單線性迴歸 | 第2天
-[Data PreProcessing](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day2.ipynb)
+[Simple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day2.ipynb)
