@@ -12,4 +12,5 @@
 
 
 ## 資料預處理 | 第1天
-[Data PreProcessing](https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data_Preprocessing.md)
+[Data PreProcessing](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day1.ipynb)
+
