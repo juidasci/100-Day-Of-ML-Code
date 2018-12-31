@@ -8,7 +8,7 @@
 
 
 
-持續更新以下內容
+會持續更新以下內容
 
 
 ## 資料預處理 | 第1天
@@ -16,3 +16,6 @@
 
 ## 簡單線性迴歸 | 第2天
 [Simple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day2.ipynb)
+
+## 多元線性迴歸 | 第3天
+[Multiple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day3.ipynb)
