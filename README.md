@@ -19,3 +19,6 @@
 
 ## 多元線性迴歸 | 第3天
 [Multiple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day3.ipynb)
+
+## 邏輯迴歸 | 第4天
+[Logistic Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day4.ipynb)
