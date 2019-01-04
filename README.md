@@ -15,88 +15,96 @@
 
 # [Python Library]
 ## 深入 NUMPY | 第1天
-( Digging Deeper | NUMPY | Day 45 )
+
 
 ## 深入 NUMPY | 第2天
-( Digging Deeper | NUMPY | Day 46 )
+
 
 ## 深入 NUMPY | 第3天
-( Digging Deeper | NUMPY | Day 47 )
+
 
 ## 深入 PANDAS | 第4天
-( Digging Deeper | PANDAS | Day 48 )
+
 
 ## 深入 PANDAS | 第5天
-( Digging Deeper | PANDAS | Day 49 )
+
 
 ## 深入 PANDAS | 第6天
-( Digging Deeper | PANDAS | Day 50 )
+
 
 ## 深入 MATPLOTLIB | 第8天
-( Digging Deeper | MATPLOTLIB | Day 51 )
+
 
 ## 深入 MATPLOTLIB | 第9天
-( Digging Deeper | MATPLOTLIB | Day 52 )
+
 
 ## 深入 MATPLOTLIB | 第10天
-( Digging Deeper | MATPLOTLIB | Day 53 )
+
 
 
 </br>
 
 # [Math Fundamental]
 
+<!-- https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw -->
+
+## 線性代數 | 第11天  
+
+<!-- Jumped To Brush up Linear Algebra | Day 26 
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab -->
+
+## 線性代數 | 第12天  
 <!-- 
-	https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
-Jumped To Brush up Linear Algebra | Day 26
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-Jumped To Brush up Linear Algebra | Day 27
+Jumped To Brush up Linear Algebra | Day 27 -->
 
-Jumped To Brush up Linear Algebra | Day 28
+## 線性代數 | 第13天  
+<!--  Jumped To Brush up Linear Algebra | Day 28 -->
 
-Jumped To Brush up Linear Algebra | Day 29
-
-https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
-Essence of calculus | Day 30
-
-Essence of calculus | Day 31
-
-Essence of calculus | Day 32
+## 線性代數 | 第14天  
+<!--  Jumped To Brush up Linear Algebra | Day 29 -->
 
 
 
--->
+https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr -->
+
+## 基礎微積分 | 第15天  
+<!--  Essence of calculus | Day 30  -->
+
+## 基礎微積分 | 第16天  
+<!--  Essence of calculus | Day 31  -->
+
+## 基礎微積分 | 第17天  
+<!-- Essence of calculus | Day 32  -->
 
 
 </br>
 
 # [PreProcessing]
-## 資料預處理 | 第11天    ( Data PreProcessing | Day 1 )
+## 資料預處理 | 第18天  
 [Data PreProcessing](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day1.ipynb)
 
-## 資料預處理 | 第12天
+## 資料預處理 | 第19天
 
 </br>
 
 # [Regression]
-## 簡單線性迴歸 | 第12天    ( Simple Linear Regression | Day 2 )
+## 簡單線性迴歸 | 第20天   
 [Simple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day2.ipynb)
 
-## 多元線性迴歸 | 第13天
-( Multiple Linear Regression | Day 3 )
+## 多元線性迴歸 | 第21天
 [Multiple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day3.ipynb)
-
-## 邏輯迴歸 | 第14天    ( Logistic Regression | Day 4 )
-[Logistic Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day4.ipynb)
-
-## 邏輯迴歸 | 第15天    ( Math Behind Logistic Regression | Day 8 )
-
-## 邏輯迴歸實作 | 第16天    ( Implementing Logistic Regression | Day 6 )
-<!-- 
 
 </br>
 
-# [Decision Trees]
+# [Classification]
+## 邏輯迴歸 | 第22天 
+[Logistic Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day4.ipynb)
+
+## 邏輯迴歸 | 第23天 
+
+## 邏輯迴歸實作 | 第24天
+<!-- 
+
 Decision Trees | Day 23
 Implementing Decision Trees | Day 25
 
@@ -137,7 +145,7 @@ Naive Bayes Classifier and Black Box Machine Learning | Day 15
 
 </br>
 
-# [K Means]
+# [Clust]
 K Means Clustering | Day 43
 K Means Clustering Implementation | Day 44
 
@@ -145,6 +153,10 @@ K Means Clustering Implementation | Day 44
 
 # [Hierarchical]
 Hierarchical Clustering | Day 54
+
+</br>
+
+# [Association]
 
 
 # [Scraping]
