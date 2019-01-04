@@ -50,8 +50,10 @@
 
 ## 線性代數 | 第11天  
 
-<!-- Jumped To Brush up Linear Algebra | Day 26 
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab -->
+<!-- 
+Jumped To Brush up Linear Algebra | Day 26 
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab 
+-->
 
 ## 線性代數 | 第12天  
 <!-- 
@@ -65,7 +67,7 @@ Jumped To Brush up Linear Algebra | Day 27 -->
 
 
 
-https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr -->
+<!-- https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr -->
 
 ## 基礎微積分 | 第15天  
 <!--  Essence of calculus | Day 30  -->
@@ -81,7 +83,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr -->
 
 # [PreProcessing]
 ## 資料預處理 | 第18天  
-[Data PreProcessing](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day1.ipynb)
+<!--[Data PreProcessing](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day1.ipynb)-->
 
 ## 資料預處理 | 第19天
 
@@ -89,20 +91,23 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr -->
 
 # [Regression]
 ## 簡單線性迴歸 | 第20天   
-[Simple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day2.ipynb)
+<!--[Simple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day2.ipynb)-->
 
-## 多元線性迴歸 | 第21天
-[Multiple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day3.ipynb)
+## 簡單線性迴歸實作| 第21天   
+
+## 多元線性迴歸 | 第22天
+<!--[Multiple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day3.ipynb)-->
+
+## 多元線性迴歸實作 | 第23天
 
 </br>
 
 # [Classification]
-## 邏輯迴歸 | 第22天 
-[Logistic Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day4.ipynb)
+## 邏輯迴歸 | 第24天 
+<!--[Logistic Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day4.ipynb)-->
 
-## 邏輯迴歸 | 第23天 
+## 邏輯迴歸實作 | 第25天 
 
-## 邏輯迴歸實作 | 第24天
 <!-- 
 
 Decision Trees | Day 23
