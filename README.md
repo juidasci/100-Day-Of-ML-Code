@@ -9,7 +9,7 @@
 </br>	
 
 
-會持續更新以下內容
+持續更新以下內容
 
 </br>	
 
@@ -71,8 +71,7 @@ Essence of calculus | Day 32
 </br>
 
 # [PreProcessing]
-## 資料預處理 | 第11天
-( Data PreProcessing | Day 1 )
+## 資料預處理 | 第11天    ( Data PreProcessing | Day 1 )
 [Data PreProcessing](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day1.ipynb)
 
 ## 資料預處理 | 第12天
@@ -80,22 +79,19 @@ Essence of calculus | Day 32
 </br>
 
 # [Regression]
-## 簡單線性迴歸 | 第12天
-( Simple Linear Regression | Day 2 )
+## 簡單線性迴歸 | 第12天    ( Simple Linear Regression | Day 2 )
 [Simple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day2.ipynb)
 
 ## 多元線性迴歸 | 第13天
 ( Multiple Linear Regression | Day 3 )
 [Multiple Linear Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day3.ipynb)
 
-## 邏輯迴歸 | 第14天
-( Logistic Regression | Day 4 )
+## 邏輯迴歸 | 第14天    ( Logistic Regression | Day 4 )
 [Logistic Regression](https://github.com/juidasci/100-Days-Of-ML-Code/blob/master/Day4.ipynb)
 
-## 邏輯迴歸實作 | 第14天
-( Implementing Logistic Regression | Day 6 )
-Math Behind Logistic Regression | Day 8
+## 邏輯迴歸 | 第15天    ( Math Behind Logistic Regression | Day 8 )
 
+## 邏輯迴歸實作 | 第16天    ( Implementing Logistic Regression | Day 6 )
 <!-- 
 
 </br>
